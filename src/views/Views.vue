@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h2>halo gais</h2>
+    <h1>halo percobaan commit</h1>
   </div>
 </template>
 
