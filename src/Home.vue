@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h2>kita p</h2>
+    <h1>percobaan commit</h1>
   </div>
 </template>
 
